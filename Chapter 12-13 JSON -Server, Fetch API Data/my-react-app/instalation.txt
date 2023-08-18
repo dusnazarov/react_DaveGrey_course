@@ -1,0 +1,6 @@
+1) npmjs.com
+2) json-server
+3) npm i json-server
+4) npx json-server -p 3500 -w data/db.json
+
+5) terminalni ikkiga bulib olamiz birida proekt ikkinchisida bu serverni ran qilamiz -- http://localhost:3500/items
